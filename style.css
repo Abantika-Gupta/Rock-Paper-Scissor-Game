@@ -3,9 +3,17 @@
   padding: 0;
   text-align: center;
 }
-
+body {
+  background-image: url("modern-business-background-with-digital-technology-design_1361-3299.avif");
+  background-size: cover;     
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  min-height: 100vh;            
+  margin: 0;
+}
 h1 {
-  background-color: #081b31;
+  background-color: rgba(8, 27, 49, 0.6);
   color: #fff;
   height: 5rem;
   line-height: 5rem;
