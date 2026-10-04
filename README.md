@@ -1,6 +1,6 @@
 Rock-Paper-Scissors
 
-A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
+Rock-Paper-Scissors game.
 
 Features
 
